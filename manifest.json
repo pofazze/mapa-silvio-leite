@@ -1,0 +1,26 @@
+{
+  "name": "Dr. Silvio Leite · CPP",
+  "short_name": "Mapa CPP",
+  "description": "Mapa de transformação Dr. Silvio Leite — Mentoria Cirurgião Particular Premium",
+  "start_url": "/mapa-silvio-leite/",
+  "scope": "/mapa-silvio-leite/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0A0908",
+  "theme_color": "#D4A53C",
+  "lang": "pt-BR",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/pofazze/cpp-brand-assets/main/cpp-logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/pofazze/cpp-brand-assets/main/cpp-logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
